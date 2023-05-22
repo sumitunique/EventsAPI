@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bbc2376d-e37f-4ea0-87cd-9d71576f5216": {
+      "ProjectGuid": "bbc2376d-e37f-4ea0-87cd-9d71576f5216",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 0
+    },
+    "9d3c6c37-99c2-4859-a715-4464f48e15c2": {
+      "ProjectGuid": "9d3c6c37-99c2-4859-a715-4464f48e15c2",
+      "DisplayName": "EventsCRUD",
+      "ColorIndex": 1
+    },
+    "e75a6d54-7487-4e92-8a34-f5dd98dcbdf1": {
+      "ProjectGuid": "e75a6d54-7487-4e92-8a34-f5dd98dcbdf1",
+      "DisplayName": "Events.Test",
+      "ColorIndex": 2
+    },
+    "a6abceb8-0616-4a76-b546-4539cd02b313": {
+      "ProjectGuid": "a6abceb8-0616-4a76-b546-4539cd02b313",
+      "DisplayName": "EventAPITest",
+      "ColorIndex": 3
+    },
+    "d6429e19-790c-482a-98c1-0940d37e6eac": {
+      "ProjectGuid": "d6429e19-790c-482a-98c1-0940d37e6eac",
+      "DisplayName": "Event.Tests",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

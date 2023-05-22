@@ -1,0 +1,9 @@
+version: '3.4'
+
+services:
+  eventscrud:
+    image: ${DOCKER_REGISTRY-}eventscrud
+    build:
+      context: .
+      dockerfile: EventsCRUD\Dockerfile
+       -p

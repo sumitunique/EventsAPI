@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "EventsAPI.Test": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true
+    }
+  }
+}
